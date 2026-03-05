@@ -53,7 +53,5 @@ The primary goal of Taskbook is to provide an elite user experience while mainta
 
 ---
 ## Latest Version
-Current release: v2.17.0
-
-See the Release Notes for detailed updates.
-
+- Current release: v2.17.0
+- See the Release Notes for detailed updates.
