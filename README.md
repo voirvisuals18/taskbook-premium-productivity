@@ -52,6 +52,7 @@ Taskbook is a modern, high-performance productivity application developed with F
 The primary goal of Taskbook is to provide an elite user experience while maintaining absolute data sovereignty. It is designed for users who require a fast, clean, and private alternative to cloud-based productivity suites.
 
 ---
-
-v2.16.0
+## Latest Version
+Current release: v2.17.0
+See the Release Notes for detailed updates.
 
