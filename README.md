@@ -2,6 +2,8 @@
 
 Taskbook is a modern, high-performance productivity application developed with Flutter. It provides a unified interface for managing tasks, notes, and calendar events with a focus on speed, privacy, and refined aesthetics.
 
+<img width="2974" height="1974" alt="" src="https://github.com/user-attachments/assets/9055f74c-d8e1-4410-b197-b6bd50526822" />
+
 ## CORE FEATURES
 
 ### . Unified Interface
